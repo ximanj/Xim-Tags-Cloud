@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: wp-tags-cloud\n"
+"Language: fa\n"
+
+#: 
+msgid "WP Tags Cloud"
+msgstr "ابر کلمات وردپرس"
+
+#: 
+msgid "Setting"
+msgstr "تنظیمات"
+
+#: 
+msgid "Plugin Details"
+msgstr "جزئیات افزونه"
+
+#: 
+msgid "Options"
+msgstr "جزئیات"
+
+#: 
+msgid "Description"
+msgstr "توضیحات"
+
+#: 
+msgid "Taxonomy"
+msgstr "نوع دسته‌بندی"
+
+#: 
+msgid "Hide empty"
+msgstr "پنهان کردن دسته‌های بدون مطلب"
+
+#: 
+msgid "Limit"
+msgstr "تعداد نمایش"
+
+#: 
+msgid "Order By"
+msgstr "ترتیب بر اساس"
+
+#: 
+msgid "Css Classes"
+msgstr "کلاس‌های css"
+

@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: wp-tags-cloud\n"
+"Language: en\n"
+
+#: 
+msgid "WP Tags Cloud"
+msgstr "WP Tags Cloud\n"
+""
+
+#: 
+msgid "Setting"
+msgstr "Setting"
+
+#: 
+msgid "Plugin Details"
+msgstr "Plugin Details\n"
+""
+
+#: 
+msgid "Options"
+msgstr "Options"
+
+#: 
+msgid "Description"
+msgstr "Description"
+
+#: 
+msgid "Taxonomy"
+msgstr "Taxonomies"
+
+#: 
+msgid "Hide empty"
+msgstr "Hide empty"
+
+#: 
+msgid "Limit"
+msgstr "Limit"
+
+#: 
+msgid "Order By"
+msgstr "Order by"
+
+#: 
+msgid "Css Classes"
+msgstr "css Classes"
+

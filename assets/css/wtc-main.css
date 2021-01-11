@@ -1,0 +1,19 @@
+@font-face {
+    font-family: iranyekan;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/iranyekanwebblackfanum.eot');
+    src: url('../fonts/iranyekanwebblackfanum.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+    url('../fonts/iranyekanwebblackfanum.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('../fonts/iranyekanwebblackfanum.ttf') format('truetype');
+}
+
+.wordcloud {
+    height: 100vh;
+    padding: 0;
+    page-break-after: always;
+    page-break-inside: avoid;
+    width: 100%;
+    direction: ltr;
+    text-align: left;
+}
